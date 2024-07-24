@@ -32,3 +32,13 @@ header{
     color: black;
 }
 
+#main-footer{
+    background-color: #3a546d;
+    min-height: 50px;
+}
+
+#bottom-footer{
+    background-color: #2c3e50;
+    min-height: 50px;
+}
+
