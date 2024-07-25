@@ -1,7 +1,9 @@
-*{
+/*{
     border: 1px dashed black;
-}
+}*/
 
+
+/*Generics*/
 body{
     color: white;
 }
@@ -15,6 +17,16 @@ ul{
     list-style-type: none;
 }
 
+a{
+    color: white;
+    text-decoration: none;
+}
+
+/*Header*/
+
+.right-side ul{
+    gap: 1rem;
+}
 
 #profile{
     height: 200px;
