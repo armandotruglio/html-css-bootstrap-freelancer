@@ -44,6 +44,10 @@ a{
 .btn-send{
     background-color: #1abc9c;
 }
+
+.green{
+    color: #1abc9c;
+}
 /*Header*/
 
 .right-side ul{
@@ -94,7 +98,6 @@ a{
 
 #main-footer{
     background-color: #3a546d;
-    min-height: 50px;
 }
 
 #bottom-footer{
